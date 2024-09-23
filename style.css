@@ -1,0 +1,93 @@
+.line {
+   line ;
+}
+
+.contact {
+    text-align: center;
+}
+
+
+.box {
+  width: 250px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0);;
+    background-color: red;
+}
+.box2 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgb(129, 55, 9)
+  }
+  .box3 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgb(255, 255, 255)
+  }
+  .box4 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgb(58, 18, 159)
+  }
+  .box5 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgb(199, 165, 55)
+  }
+  .box6 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgb(255, 98, 0)
+  }
+  .box7 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgb(189, 83, 17)
+  }
+  .box8 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgba(190, 61, 29, 0.715)
+  }
+  .box9 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgb(237, 11, 11)
+  }
+  .box10 {
+    width: 250px;
+      border-radius: 28px;
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+      background-color: rgba(0, 0, 0, 0.747)
+  }
+  .bg-pink {
+    width: 2500px;
+      
+      box-shadow: 4px 4px 14px rgba(0, 0, 0);
+    background-color: pink;
+  }
+.Erik {
+    width: 2500px;
+   
+    box-shadow: 4px 4px 14px rgba(0, 0, 0);
+    background-color: rgba(151, 106, 194, 0.758);
+}
+.text {
+  text-align: center;
+}
+.table {
+  width: 100%;
+}
+  .table td{
+  padding-bottom: 10px;
+  }
+  .table td:nth-child(2), .table td:nth-child(1){
+      color: red;
+  }
